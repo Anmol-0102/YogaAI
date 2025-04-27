@@ -17,6 +17,7 @@ Using **MoveNet**-based pose estimation and deep learning techniques, YogaAI rec
 
 ---
 <img src="https://github.com/user-attachments/assets/fad468ed-2231-4908-96ff-e698cc58f107" alt="Image Alt Text" width="600"/>
+---
 ## 🚀 Features
 
 - 🎯 Real-time Yoga Pose Detection using MoveNet
@@ -107,6 +108,7 @@ Experience ancient healing practices through:
 4. Access YogaAI on your browser at:
 http://localhost:3000
 
+---
 
 ##Future Scope
 - 🔥 Expansion to 50+ Yoga Poses for comprehensive Yoga sessions
@@ -115,14 +117,16 @@ http://localhost:3000
 -📊 AI-based personalized yoga plans based on user analytics
 -🎥 Virtual Reality (VR) support for immersive Yoga Training
 
+---
 ##Results
-
+---
 ## 👥 Contributors
 Project Lead: Anmol Singh
 Divya
 Srijita
 GitHub: https://github.com/Anmol-0102
 
-
+---
 #"योगः कर्मसु कौशलम्"
+
 ##Yoga is excellence in action.
