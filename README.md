@@ -16,9 +16,10 @@
 Using **MoveNet**-based pose estimation and deep learning techniques, YogaAI recognizes **7 major yoga poses** along with a complete **Meditation Module** inspired by the ancient **7 Chakra Healing (सप्त चक्र चिकित्सा)**.
 
 ---
-<img src="https://github.com/user-attachments/assets/fad468ed-2231-4908-96ff-e698cc58f107" alt="Image Alt Text" width="600"/>
----
+<img src="https://github.com/user-attachments/assets/fad468ed-2231-4908-96ff-e698cc58f107" alt="Image Alt Text" width="400" height = "600" />
 
+
+---
 
 ## 🚀 Features
 
@@ -121,6 +122,15 @@ http://localhost:3000
 
 ---
 ## Results
+# Yoga Results & Home Page
+![image](https://github.com/user-attachments/assets/0a43c1be-2cd1-4e62-85fb-661ab8f12b4f)
+![image](https://github.com/user-attachments/assets/2eb1fa8e-e13a-4e4f-b4da-a5f9005d6658)
+![image](https://github.com/user-attachments/assets/47fbbfce-df7d-43d3-ac9e-ec28fb2bb4c9)
+![image](https://github.com/user-attachments/assets/ace722b7-3091-410c-bd06-04759ab14040)
+
+# Meditaion Module can be explored further
+![image](https://github.com/user-attachments/assets/da00368c-54ee-4a00-b548-589a37fc7eb3)
+
 ---
 ## 👥 Contributors
 Project Lead: Anmol Singh
@@ -128,6 +138,7 @@ Divya
 Srijita
 GitHub: https://github.com/Anmol-0102
 
+**Note: ** You can use the images of chakras, yoga poses according to your wish.
 ---
 # "योगः कर्मसु कौशलम्"
 
