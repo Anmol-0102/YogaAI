@@ -16,8 +16,9 @@
 Using **MoveNet**-based pose estimation and deep learning techniques, YogaAI recognizes **7 major yoga poses** along with a complete **Meditation Module** inspired by the ancient **7 Chakra Healing (सप्त चक्र चिकित्सा)**.
 
 ---
+<p align="center">
 <img src="https://github.com/user-attachments/assets/fad468ed-2231-4908-96ff-e698cc58f107" alt="Image Alt Text" width="400" height = "600" />
-
+</p>
 
 ---
 
@@ -115,10 +116,10 @@ http://localhost:3000
 
 ## Future Scope
 - 🔥 Expansion to 50+ Yoga Poses for comprehensive Yoga sessions
--📈 Advanced Meditation Modules targeting Stress, Anxiety, Sleep Disorders
--🩺 Integration with Wearable Sensors for real-time body posture corrections
--📊 AI-based personalized yoga plans based on user analytics
--🎥 Virtual Reality (VR) support for immersive Yoga Training
+- 📈 Advanced Meditation Modules targeting Stress, Anxiety, Sleep Disorders
+- 🩺 Integration with Wearable Sensors for real-time body posture corrections
+- 📊 AI-based personalized yoga plans based on user analytics
+- 🎥 Virtual Reality (VR) support for immersive Yoga Training
 
 ---
 ## Results
@@ -134,11 +135,11 @@ http://localhost:3000
 ---
 ## 👥 Contributors
 Project Lead: Anmol Singh
-Divya
-Srijita
-GitHub: https://github.com/Anmol-0102
+- Divya
+- Srijita
+- GitHub: https://github.com/Anmol-0102
 
-**Note: ** You can use the images of chakras, yoga poses according to your wish.
+**Note:** You can use the images of chakras, yoga poses according to your wish.
 ---
 # "योगः कर्मसु कौशलम्"
 
