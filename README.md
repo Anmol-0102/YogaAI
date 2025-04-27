@@ -18,6 +18,8 @@ Using **MoveNet**-based pose estimation and deep learning techniques, YogaAI rec
 ---
 <img src="https://github.com/user-attachments/assets/fad468ed-2231-4908-96ff-e698cc58f107" alt="Image Alt Text" width="600"/>
 ---
+
+
 ## 🚀 Features
 
 - 🎯 Real-time Yoga Pose Detection using MoveNet
@@ -95,7 +97,7 @@ Experience ancient healing practices through:
    
 4. Navigate to the backend folder and run the training/inference scripts.
 
-###🎨 Frontend (YogaAI UI/UX Platform)
+### 🎨 Frontend (YogaAI UI/UX Platform)
 1. Install Node.js and npm.
 2. Install project dependencies:
     ```bash
@@ -110,7 +112,7 @@ http://localhost:3000
 
 ---
 
-##Future Scope
+## Future Scope
 - 🔥 Expansion to 50+ Yoga Poses for comprehensive Yoga sessions
 -📈 Advanced Meditation Modules targeting Stress, Anxiety, Sleep Disorders
 -🩺 Integration with Wearable Sensors for real-time body posture corrections
@@ -118,7 +120,7 @@ http://localhost:3000
 -🎥 Virtual Reality (VR) support for immersive Yoga Training
 
 ---
-##Results
+## Results
 ---
 ## 👥 Contributors
 Project Lead: Anmol Singh
@@ -127,6 +129,6 @@ Srijita
 GitHub: https://github.com/Anmol-0102
 
 ---
-#"योगः कर्मसु कौशलम्"
+# "योगः कर्मसु कौशलम्"
 
-##Yoga is excellence in action.
+## Yoga is excellence in action.
