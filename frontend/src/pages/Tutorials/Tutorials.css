@@ -1,0 +1,53 @@
+.tutorials-container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 40px 20px;
+  background: linear-gradient(100deg, #b30059, #e60073);
+  font-family: 'Raleway', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tutorials-section {
+  width: 90%;
+  max-width: 900px;
+  margin-bottom: 40px;
+}
+
+.tutorials-heading {
+  font-size: 3rem;
+  color: white;
+  margin-bottom: 25px;
+  text-align: left;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.tutorials-heading:hover {
+  font-size: 3.5rem;
+  color: white;
+  animation: white-glow 1s infinite alternate;
+}
+
+.tutorials-content-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.tutorials-content {
+  color: white;
+  font-size: 1.25rem;
+  line-height: 1.8;
+  text-align: left;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.tutorials-content:hover {
+  font-size: 1.55rem;
+  color: white;
+  animation: white-glow 1s infinite alternate;
+}
+

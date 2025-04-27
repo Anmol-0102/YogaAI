@@ -1,0 +1,12 @@
+                precision    recall  f1-score   support
+
+         chair       1.00      0.98      0.99       124
+         cobra       0.94      1.00      0.97        76
+           dog       1.00      0.90      0.95        51
+shoudler_stand       1.00      1.00      1.00         3
+      traingle       1.00      1.00      1.00        10
+          tree       0.98      1.00      0.99       146
+
+      accuracy                           0.98       410
+     macro avg       0.99      0.98      0.98       410
+  weighted avg       0.98      0.98      0.98       410

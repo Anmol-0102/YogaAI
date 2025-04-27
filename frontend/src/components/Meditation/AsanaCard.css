@@ -1,0 +1,40 @@
+.asana-card {
+    background: white;
+    color: #333;
+    border-radius: 10px;
+    width: 240px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .asana-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .asana-card img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .asana-card h3 {
+    font-size: 18px;
+    color: #b30059;
+    margin-bottom: 8px;
+  }
+  
+  .asana-timer {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #b30059;
+  }  
+  
+  .asana-card p {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  

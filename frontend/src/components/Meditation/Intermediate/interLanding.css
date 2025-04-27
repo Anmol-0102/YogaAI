@@ -1,0 +1,120 @@
+/* IntermediateLanding.css */
+
+.intermediate-page {
+    padding: 40px 20px;
+    background: linear-gradient(100deg, #b30059, #e60073);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f5f0f0;
+  }
+  
+  .intro-section {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .intro-section h1 {
+    font-size: 2.5rem;
+    color: #faf5f7;
+  }
+  
+  .intro-section p {
+    font-size: 1.2rem;
+    color: #f4efef;
+    margin-top: 10px;
+  }
+  
+  .chakra-selection-section {
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  .chakra-selection-section h2 {
+    margin-bottom: 30px;
+    font-size: 1.8rem;
+  }
+  
+  .chakra-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .chakra-card {
+    background: #fff;
+    width: 250px;
+    height: 280px;
+    border-radius: 16px;
+    border: 4px solid transparent;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .chakra-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+  }
+  
+  .chakra-card-image {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+  }
+  
+  .chakra-card-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  /* Chakra detail view */
+  .chakra-details-section {
+    padding: 20px;
+  }
+  
+  .chakra-detail-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .chakra-detail-header h2 {
+    font-size: 2rem;
+    color: #73003c;
+  }
+  
+  .cta-button {
+    background-color: #73003c;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #5e0030;
+  }
+  
+  /* Final message */
+  .final-message {
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 30px;
+    border-top: 1px solid #ddd;
+  }
+  
+  .final-message p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    color: #f9f5f5;
+  }
+  

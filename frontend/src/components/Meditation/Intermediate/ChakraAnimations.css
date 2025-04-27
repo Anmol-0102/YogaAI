@@ -1,0 +1,63 @@
+/* Chakra Animation Effects */
+.chakra-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .chakra-card {
+    background-color: #fff;
+    padding: 20px;
+    width: 220px;
+    border: 3px solid transparent;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .chakra-card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .chakra-card-image {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 50%;
+  }
+  
+  .chakra-card-title {
+    font-size: 1.4rem;
+    font-weight: bold;
+  }
+  
+  .chakra-detail-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .cta-button {
+    background-color: #73003c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #5c002d;
+  }
+  
+  .chakra-content {
+    margin-top: 20px;
+  }
+
+  
